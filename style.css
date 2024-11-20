@@ -1,0 +1,11 @@
+body{
+    background: #212121;
+    color: white;
+}
+
+#start,#stop{
+    width: 100px;
+    padding: 6px;
+    border-radius: 5px;
+    border: white;
+}
